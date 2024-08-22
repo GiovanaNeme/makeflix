@@ -1,0 +1,67 @@
+body {
+    color: crimson;
+    background: pink;
+    margin: 20px;
+}
+
+header {
+    border-bottom: solid 2px rgb(235, rgb(233, 32, 206), blue);
+    padding: 50px;
+    font-size: 45px;
+    color: rgb(red, rgb(226, 62, 210), blue);
+}
+
+section {
+    background: rgb(250, 165, 233);
+
+}
+
+body {
+    color: antiquewhite;
+    background: black;
+    margin: 0px;
+    font-family: "Grey Qo", cursive;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+header {
+    border-bottom: solid 2pxrgb(158, 147, 22);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(224, 24, 211);
+
+}
+
+.inicio {
+    background: rgb(239, 157, 231);
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.texto {
+    margin-right: 5%;
+}
+
+.texto h1 {
+    font-size: 32px;
+}
+
+.texto p {
+    font-size: 20px;
+}
+
+img {
+    height: 200px
+}
+
+.categoria1-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 20px;
+}
